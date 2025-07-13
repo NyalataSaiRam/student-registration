@@ -14,7 +14,7 @@ const Navbar = () => {
                 animate={{ opacity: 1 }}
                 transition={{ duration: 0.8, ease: "easeInOut" }} className='p-2 flex flex-col sm:flex-row sm:justify-between sm:items-center'>
                 <ul className='capitalize pb-2 sm:pb-0 justify-between flex flex-row items-center '>
-                    <Link to={'/'}>
+                    <Link to={'/course-types'}>
                         <li className='p-0'>
                             <h1 className='rrm text-blue'>courses</h1>
                         </li>
