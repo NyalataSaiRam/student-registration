@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Individual",
+        "editMode": false
+    },
+    {
+        "id": 2,
+        "name": "Group",
+        "editMode": false
+    },
+    {
+        "id": 3,
+        "name": "Special",
+        "editMode": false
+    }
+]

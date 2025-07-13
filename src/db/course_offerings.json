@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "course": 1,
+        "course_type": 1,
+        "editMode": false
+    },
+    {
+        "id": 2,
+        "course": 3,
+        "course_type": 2,
+        "editMode": false
+    },
+    {
+        "id": 3,
+        "course": 2,
+        "course_type": 3,
+        "editMode": false
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Telugu",
+        "editMode": false
+    },
+    {
+        "id": 2,
+        "name": "Hindi",
+        "editMode": false
+    },
+    {
+        "id": 3,
+        "name": "English",
+        "editMode": false
+    }
+]

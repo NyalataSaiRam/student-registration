@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "sai",
+        "course_opted": 1,
+        "editMode": false
+    },
+    {
+        "id": 2,
+        "name": "ram",
+        "course_opted": 2,
+        "editMode": false
+    },
+    {
+        "id": 3,
+        "name": "dinesh",
+        "course_opted": 3,
+        "editMode": false
+    }
+]
